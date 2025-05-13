@@ -1,3 +1,13 @@
+Hello, This is my submission for the news app project
+Unfortunately I ran out of request while developing the app so I could not test the search functionality
+To run the project you just have to clone the repo, then in the terminal run:
+"npm install"
+or 
+"npm install --legacy-peer-deps" (expo was updated recently and some dependencies may cause problems)
+Lastly, to run the app just type "npx expo start" in the terminal
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
